@@ -6,7 +6,7 @@
 
 
 var config2 = {
-  param1 : 'Second value',
+  param1 : 'Second 30/05 value',
   param2 : true
 };
 
