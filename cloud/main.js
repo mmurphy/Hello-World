@@ -6,7 +6,7 @@
 
 
 var config2 = {
-  param1 : 'Second 31/05-001 value',
+  param1 : 'Second 31/05-002 value',
   param2 : true
 };
 
